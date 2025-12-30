@@ -11,3 +11,6 @@ __pycache__/
 
 .idea/
 
+
+# Local data
+data/raw/
