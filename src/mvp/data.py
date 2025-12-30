@@ -6,7 +6,7 @@ import pandas as pd
 # Project root = .../options-vol-surface-mvp/
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-DEFAULT_CSV_PATH = PROJECT_ROOT / "data" / "raw" / "spy_2020_2022.csv"
+DEFAULT_CSV_PATH = PROJECT_ROOT / "data" / "sample" / "spy_sample.csv"
 
 # Minimal columns needed for: calls, IV, smile, surface
 REQUIRED_COLS = [
