@@ -38,5 +38,5 @@ tornado==6.5.4
 typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.6.2
-scipy==1.12.0
+scipy==1.14.1
 
